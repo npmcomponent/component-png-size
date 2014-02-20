@@ -1,19 +1,13 @@
 {
-  "name": "png-size",
+  "name": "component-png-size",
   "description": "Read PNG dimensions from a File or Blob",
   "version": "0.1.0",
-  "keywords": [],
-  "dependencies": {},
-  "development": {},
-  "license": "MIT",
+  "keywords": [
+    "png",
+    "dimensions",
+    "image"
+  ],
   "main": "index.js",
-  "component": {
-    "scripts": {
-      "png-size/index.js": "index.js"
-    }
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/component/png-size.git"
-  }
+  "dependencies": {},
+  "license": "MIT"
 }
